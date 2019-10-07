@@ -1,2 +1,2 @@
 # SimpleCardTrick
-A simple card trick game using python
+A simple card trick using python
